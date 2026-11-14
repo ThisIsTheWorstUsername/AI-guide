@@ -14,7 +14,7 @@ The coach keeps this file up to date. It lets any model pick up where the last s
 ### Placement notes (from intake)
 - Starts projects by asking if the app is feasible, then has another Claude session interview them to write the prompt (good: this is the Level 1 interview technique).
 - Verifies only by testing by hand ("if it works, it works"): no feedback loop. Level 3 gap.
-- Has a `CLAUDE.md` in a "virtual AI company" test project, but it is a role/persona prompt ("act as a CEO, break work into agents"), not project facts and conventions. Level 4 gap.
+- Has a `CLAUDE.md` in a "virtual AI company" test project. Learner says it includes project instructions as well as the CEO/delegation role, and that Claude wrote it (not them). Contents not yet reviewed; ask them to paste it and apply the "would Claude err without this line?" test. Level 4 to be confirmed.
 - Token burn is likely a context-management issue (Level 4).
 
 ## Current position
